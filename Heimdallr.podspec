@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   }
   spec.homepage = 'https://github.com/trivago/Heimdallr.swift'
   spec.source = {
-    :git => 'https://github.com/fachrifaul/Heimdallr.swift.git',
+    :git => 'https://github.com/trivago/Heimdallr.swift.git',
     :tag => spec.version.to_s
   }
   
