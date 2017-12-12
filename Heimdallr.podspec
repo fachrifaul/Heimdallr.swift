@@ -14,7 +14,6 @@ Pod::Spec.new do |spec|
     :git => 'https://github.com/fachrifaul/Heimdallr.swift.git',
     :tag => spec.version.to_s
   }
-  s.source_files = 'Heimdallr/*.swift'
   
   spec.summary = 'Easy to use OAuth 2 library, written in Swift'
   spec.description = 'Heimdallr is an OAuth 2.0 client specifically designed for easy usage. It currently supports the resource owner password credentials grant flow, refreshing an access token as well as extension grants.'
